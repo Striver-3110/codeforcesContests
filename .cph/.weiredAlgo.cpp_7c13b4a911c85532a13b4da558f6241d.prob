@@ -1,0 +1,1 @@
+{"name":"Local: weiredAlgo","url":"c:\\cp\\weiredAlgo.cpp","tests":[{"id":1686821014914,"input":"3","output":"3→10→5→16→8→4→2→1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cp\\weiredAlgo.cpp","group":"local","local":true}
